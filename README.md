@@ -1,2 +1,2 @@
 # ToolsList
-Simple MVC project using .txt fo DB
+Simple MVC project for listing tools.
